@@ -18,6 +18,11 @@ Use this tool at your own risk. Deletions are permanent. The script interacts wi
 
 ---
 
+## 📄 License
+MIT License – free to use, modify, and distribute.
+
+---
+
 ## 🛠️ Requirements
 
 - Python 3.7+
@@ -28,4 +33,3 @@ Install dependencies:
 
 ```bash
 pip install selenium
-
