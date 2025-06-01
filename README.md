@@ -13,6 +13,11 @@ Python script automatically deletes all your Reddit posts and comments by contro
 
 ---
 
+##❗ Disclaimer
+Use this tool at your own risk. Deletions are permanent. The script interacts with the Reddit UI and may break if Reddit changes its layout.
+
+---
+
 ## 🛠️ Requirements
 
 - Python 3.7+
