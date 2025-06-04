@@ -10,7 +10,7 @@ driver = webdriver.Chrome(options=options)
 
 # Step 1: Manual login
 driver.get("https://old.reddit.com/login")
-input("[🔒] Inicia sesión en Reddit y presiona ENTER aquí...")
+input("[🔒] Log in to Reddit and press ENTER here...")
 
 # Step 2: Go to the overview
 driver.get("https://old.reddit.com/user/YOURUSERNAME/")
