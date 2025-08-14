@@ -7,7 +7,7 @@ Python script automatically deletes all your Reddit posts and comments by contro
 ## 🚀 Features
 
 - ✅ Deletes all your posts and comments
-- 🔓 No Reddit API required — works via browser automation
+- 🔓 No Reddit API required works via browser automation
 - 🖱️ Uses Selenium to simulate real user behavior
 - 🛡️ Manual login for maximum security (session is never stored)
 
